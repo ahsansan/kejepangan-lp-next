@@ -26,7 +26,7 @@ const Form = () => {
     setDisable(true);
     fetch(scriptUrl, { method: "POST", body: new FormData(formRef.current) })
       .then((res) => {
-        console.log("SUCCESSFULLY SUBMITTED");
+        console.log("SUCCESSFULLY SUBMITTED", res);
         Swal.fire(
           "Sukses",
           "Pesanan berhasil terkirim, kamu akan diarahkan ke halaman pembayaran dan akan dihubungi oleh tim Kejepangan",
