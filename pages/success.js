@@ -15,7 +15,7 @@ export default function Success() {
         <h2 className="text-2xl font-bold text-center">
           Terima Kasih Telah Order
         </h2>
-        <div className="flex flex-row flex-wrap my-6">
+        <div className="flex flex-row flex-wrap my-6 justify-center items-center">
           <div className="w-[1/3]">
             <img
               src="/CaraAsikBelajarKanji.png"
@@ -104,6 +104,20 @@ export default function Success() {
             <p className="font-bold">ShopeePay</p>
             <p>0822-2600-5644</p>
             <p>Muhammad Maulana Ahsan</p>
+          </div>
+        </div>
+        <div className="text-sm mt-9">
+          <p>Sudah melakukan transfer?</p>
+          <div className="flex flex-row p-2 bg-green-700 w-[200px] text-center rounded hover:bg-green-600 my-3">
+            <img src="/waicon.svg" alt="wa" />
+            <a
+              href="https://api.whatsapp.com/send?phone=6285855997747&text=Saya%20sudah%20transfer%20kak%2C%20tolong%20segera%20diproses%20%F0%9F%98%81"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-white ml-1"
+            >
+              Konfirmasi Pembayaran
+            </a>
           </div>
         </div>
       </div>
