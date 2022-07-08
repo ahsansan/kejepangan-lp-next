@@ -47,7 +47,10 @@ const Form = () => {
   };
 
   return (
-    <div className="shadow-lg max-w-xl bg-slate-200 rounded m-auto my-7 p-5">
+    <div
+      id="form"
+      className="shadow-lg max-w-xl bg-slate-200 rounded m-auto mb-7 p-5"
+    >
       <h2 className="text-2xl font-semibold my-2">
         Form Pemesanan Ebook Kejepangan
       </h2>
@@ -103,7 +106,7 @@ const Form = () => {
             className={
               disable
                 ? "my-2 px-5 py-2 bg-slate-400 text-slate-200 font-semibold rounded"
-                : "my-2 px-5 py-2 bg-orange-400 text-white font-semibold rounded hover:bg-orange-300 hover:text-black"
+                : "my-2 px-5 py-2 bg-orange-400 text-white font-semibold rounded hover:bg-orange-500"
             }
             type="submit"
             disabled={disable}

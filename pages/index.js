@@ -1,5 +1,8 @@
 import Head from "next/head";
 import Form from "../components/form";
+import Price from "../components/price";
+import Problem from "../components/problem";
+import Solution from "../components/solution";
 
 import styles from "../styles/Home.module.css";
 
@@ -15,6 +18,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div>
+        <Problem />
+        <Solution />
+        <Price />
         <Form />
       </div>
     </div>
