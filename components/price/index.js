@@ -14,14 +14,14 @@ export default function Price() {
           Klik Tombol dibawah untuk dapetin Penawaran Khusus Sekarang Juga.
         </p>
         <p className="my-7 font-bold text-2xl text-center">
-          Normalnya untuk dapetin 3 Ebook Kamu Invest sebanyak :{" "}
+          Normalnya untuk dapetin 3 Ebook Kamu Invest sebanyak : <br />
           <span className="text-orange-500">Rp. 75,000-</span>
         </p>
         <p className="my-4 font-bold text-2xl text-center">
           Khusus untuk Kamu yang siap belajar bahasa Jepang lebih asik
         </p>
         <p className="my-4 font-bold text-2xl text-center">
-          Cukup investasi sebesar{" "}
+          Cukup investasi sebesar <br />
           <span className="text-green-500">Rp. 50.000,-</span> saja.
         </p>
         <p className="my-4 font-bold text-xl text-center bg-slate-300 p-3 rounded">
