@@ -15,7 +15,7 @@ export default function Price() {
         </p>
         <p className="my-7 font-bold text-2xl text-center">
           Normalnya untuk dapetin 3 Ebook Kamu Invest sebanyak : <br />
-          <span className="text-orange-500">Rp. 75,000-</span>
+          <span className="text-orange-500 line-through">Rp. 75,000-</span>
         </p>
         <p className="my-4 font-bold text-2xl text-center">
           Khusus untuk Kamu yang siap belajar bahasa Jepang lebih asik
