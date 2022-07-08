@@ -19,7 +19,7 @@ export default function Solution() {
             dari sejarahnya, alasan mengapa kanji menjadi masalah, dan juga tips
             dan trik menguasai kanji dengan asik, bahkan untuk pemula sekalipun.
           </p>
-          <p className="p-1 my-2 text-red-800 font-bold text-xl">Rp. 25.000</p>
+          <p className="p-1 my-4 text-red-800 font-bold text-xl">Rp. 25.000</p>
         </div>
       </div>
       <div className="p-4 bg-slate-200">
@@ -40,7 +40,7 @@ export default function Solution() {
             tulis agar kamu bisa menguasai kosakata dengan asik dan tanpa merasa
             takut untuk lupa lagi.
           </p>
-          <p className="p-1 my-2 text-red-800 font-bold text-xl">Rp. 25.000</p>
+          <p className="p-1 my-4 text-red-800 font-bold text-xl">Rp. 25.000</p>
         </div>
       </div>
       <div className="p-4">
@@ -56,7 +56,7 @@ export default function Solution() {
             Ebook : Formula Pede & Lancar Ngomong Jepang
           </p>
           <p className="text-sm p-1">
-            Bisa ngomong dalam bahasa Jepang dengan pede dan lancar adalah
+            Bisa ngomong pakai bahasa Jepang dengan pede dan lancar adalah
             impian yang ingin dicapai oleh semua pelajar bahasa Jepang.
           </p>
           <p className="text-sm p-1">
@@ -64,7 +64,7 @@ export default function Solution() {
             cerita tentang pengalamanku dari yang dulunya minderan sampai bisa
             ngomong, dan Aku berikan tips trik apa yang telah Aku praktekkan.
           </p>
-          <p className="p-1 my-2 text-red-800 font-bold text-xl">Rp. 25.000</p>
+          <p className="p-1 my-4 text-red-800 font-bold text-xl">Rp. 25.000</p>
         </div>
       </div>
     </div>

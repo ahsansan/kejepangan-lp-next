@@ -2,15 +2,15 @@ export default function Price() {
   return (
     <div className="shadow-lg max-w-xl bg-slate-50 rounded m-auto pb-5">
       <div className="p-4">
-        <p className="my-2">
+        <p className="my-4">
           Dan ebook ebook ini bisa Kamu dapetin dengan harga ga lebih mahal dari
           pada ngopi di cafe.
         </p>
-        <p className="my-2">
+        <p className="my-4">
           Dan khusus buat Kamu yang mau dapetin Ebooknya hari ini, Aku ada
           penawaran khusus buat Kamu.
         </p>
-        <p className="my-2">
+        <p className="my-4">
           Klik Tombol dibawah untuk dapetin Penawaran Khusus Sekarang Juga.
         </p>
         <p className="my-7 font-bold text-2xl text-center">
@@ -32,7 +32,7 @@ export default function Price() {
         <img src="/WebinarBonus.png" alt="Webinar Bonus" />
       </div>
       <div>
-        <p className="font-bold my-2 text-red-800 p-3 text-2xl text-center">
+        <p className="font-bold my-4 text-red-800 p-3 text-2xl text-center">
           Webinar &quot;Teknik Belajar Bahasa Jepang Otodidak&quot;
         </p>
         <p className="p-4">

@@ -7,10 +7,10 @@ const Problem = () => {
         </h2>
       </div>
       <div className="p-4">
-        <p className="font-bold my-2">
+        <p className="font-bold my-4">
           Kamu pernah kebayang gak, Kamu bisa jago ngobrol sama orang Jepang?
         </p>
-        <p className="text-sm my-2">
+        <p className="text-sm my-4">
           Kamu bisa mengerti apa yang dia omongin, dan Kamu juga bisa membalas
           obrolan dia, jadi bisa ngobrol asik dengan dia sampek gak kerasa
           berjam jam waktu telah berlalu.
@@ -28,18 +28,18 @@ const Problem = () => {
         <img src="/Ngobrol.png" alt="Orang Ngobrol" />
       </div>
       <div className="p-4">
-        <p className="font-bold my-2">Tapi sayangnya...</p>
-        <p className="text-sm my-2">
+        <p className="font-bold my-4">Tapi sayangnya...</p>
+        <p className="text-sm my-4">
           Ngomong itu bukan &quot;
           <span className="italic line-through text-red-800">doang</span>&quot;,
           banyak orang kan yang dengan mudahnya men judge &quot;Ngomong doang
           mah gampang&quot;.
         </p>
-        <p className="text-sm my-2">
+        <p className="text-sm my-4">
           Dalam kenyataan yang sebenarnya, ngomong adalah skill yang harus
           dipelajari dan dilatih sampek bisa lancar dan gak gagap lagi.
         </p>
-        <p className="font-bold my-2">
+        <p className="font-bold my-4">
           Beberapa kendala yang biasanya membuat orang susah untuk ngomong dalam
           bahasa Jepang :
         </p>
@@ -61,37 +61,37 @@ const Problem = () => {
         </ul>
       </div>
       <div className="p-4">
-        <p className="font-bold my-2">Tenang...</p>
-        <p className="text-sm my-2">
+        <p className="font-bold my-4">Tenang...</p>
+        <p className="text-sm my-4">
           Aku juga pernah mengalami masa masa itu, bahkan jauh sebelum Aku
           mengenal bahasa Jepang.
         </p>
-        <p className="text-sm my-2">Aku dulu anak yang pendiam dan pemalu.</p>
-        <p className="text-sm my-2">
+        <p className="text-sm my-4">Aku dulu anak yang pendiam dan pemalu.</p>
+        <p className="text-sm my-4">
           Jangankan ngobrol sama orang baru, sama teman atau saudara yang udah
           kenal lama aja masih takut untuk mengungkapkan sesuatu.
         </p>
-        <p className="text-sm my-2">
+        <p className="text-sm my-4">
           Tapi karena Aku pengen banget bisa asik ketika ngobrol, akhirnya Aku
           memutuskan untuk berproses dan memperbaiki kualitas diri.
         </p>
-        <p className="text-sm my-2">
+        <p className="text-sm my-4">
           Alhamdhulillah sekarang Aku tidak lagi takut untuk ngomong, bahkan
           bisa menjadi seorang penggiat social media yang harus ngomong di depan
           kamera.
         </p>
-        <p className="text-sm my-2">
+        <p className="text-sm my-4">
           Hal yang bahkan tidak pernah Aku bayangkan sebelumnya.
         </p>
-        <p className="font-bold my-2 text-red-800">
+        <p className="font-bold my-4 text-red-800">
           Kali ini, Aku mau sharing pengalaman dan tips aja nih buat Kamu yang
           sedang belajar bahasa Jepang.
         </p>
-        <p className="font-bold my-2">
+        <p className="font-bold my-4">
           Selain tips agar bisa pede dan lancar ngomong dalam bahasa Jepang, Aku
           juga menulis 2 ebook lainya.
         </p>
-        <p className="font-bold my-2">
+        <p className="font-bold my-4">
           Membahas tentang hal yang juga sering menjadi masalah bagi para
           pelajar bahasa Jepang.
         </p>
