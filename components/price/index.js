@@ -33,7 +33,7 @@ export default function Price() {
       </div>
       <div>
         <p className="font-bold my-2 text-red-800 p-3 text-2xl text-center">
-          Webinar "Teknik Belajar Bahasa Jepang Otodidak"
+          Webinar &quot;Teknik Belajar Bahasa Jepang Otodidak&quot;
         </p>
         <p className="p-4">
           Webinar ini Aku selenggarain bereng Nazri @nihongo.monggo, disini Aku

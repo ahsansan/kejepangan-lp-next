@@ -30,10 +30,10 @@ const Problem = () => {
       <div className="p-4">
         <p className="font-bold my-2">Tapi sayangnya...</p>
         <p className="text-sm my-2">
-          Ngomong itu bukan "
-          <span className="italic line-through text-red-800">doang</span>",
-          banyak orang kan yang dengan mudahnya men judge "Ngomong doang mah
-          gampang".
+          Ngomong itu bukan &quot;
+          <span className="italic line-through text-red-800">doang</span>&quot;,
+          banyak orang kan yang dengan mudahnya men judge &quot;Ngomong doang
+          mah gampang&quot;.
         </p>
         <p className="text-sm my-2">
           Dalam kenyataan yang sebenarnya, ngomong adalah skill yang harus
